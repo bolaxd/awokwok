@@ -1,0 +1,30 @@
+{
+  "name": "@bolaxd/awokwok",
+  "version": "1.0.0",
+  "description": "y gitu",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node __test__/state.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bolaxd/design-cli.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "bolaxd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bolaxd/design-cli/issues"
+  },
+  "homepage": "https://github.com/bolaxd/design-cli#readme",
+  "dependencies": {
+    "ansi": "^0.3.1",
+    "chalk": "^5.2.0"
+  },
+  "optionalDependencies": {
+    "sleep": "^6.3.0"
+  }
+}
